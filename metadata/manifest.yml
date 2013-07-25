@@ -3,7 +3,7 @@ Cartridge-Short-Name: FUSE
 Display-Name: Fuse Registry 7.2.0
 Description: "Runs a Fuse Fabric container on OpenShift."
 Version: '7.2.0'
-Source-Url: https://github.com/jcordes73/fuse-openshift-cartridge.git
+Source-Url: git@github.com/jcordes73/fuse-openshift-cartridge.git
 License: "ASL 2.0"
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
 Cartridge-Version: 0.0.1
